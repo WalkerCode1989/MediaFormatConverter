@@ -19,5 +19,5 @@ make
 
 # Program testing
 media_converter {input file name} {output file name}  
-ex:  
+e.g.  
 media_converter aac_sample.aac aactoopus.mp4  
